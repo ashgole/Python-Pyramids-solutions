@@ -14,7 +14,7 @@ Coding Battle Soution for Python Pyramids. This is done by my Team and me.
 [Battle 5 solutions](https://github.com/ashgole/Python-Pyramids-solutions/tree/main/Coding-Battle-5)
 ![alt text](https://github.com/ashgole/Python-Pyramids-solutions/blob/main/questions%20png/q5.png)
 
-[Battle 6 solutions](https://github.com/ashgole/Python-Pyramids-solutions/tree/main/Coding-Battle-6)
+[Battle 6 solutions](https://github.com/ashgole/Python-Pyramids-solutions/tree/main/Coding-Battle-6) <br>
 ![alt text](https://github.com/ashgole/Python-Pyramids-solutions/blob/main/questions%20png/q6.png)
 
 [Battle 8 solutions](https://github.com/ashgole/Python-Pyramids-solutions/tree/main/Coding-Battle-8)
