@@ -1,7 +1,12 @@
-# Python-Pyramids-solutions
+***
+# Python Pyramids Solutions
+
+***
+# About
 Coding Battle Soution for Python Pyramids. This is done by my Team and me.
 
-## Questions screenshots
+***
+# Questions screenshots
 [Battle 2 solutions](https://github.com/ashgole/Python-Pyramids-solutions/tree/main/Coding-Battle-2)
 ![alt text](https://github.com/ashgole/Python-Pyramids-solutions/blob/main/questions%20png/q2.png)
 
